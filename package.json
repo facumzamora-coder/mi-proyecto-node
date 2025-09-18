@@ -9,6 +9,6 @@
   "author": "Facundo Zamora",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.21.2"
   }
 }
